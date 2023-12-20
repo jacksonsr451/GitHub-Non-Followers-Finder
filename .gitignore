@@ -103,3 +103,5 @@ cython_debug/
 poetry.toml
 .ruff_cache/
 pyrightconfig.json
+
+nao_seguidores.json
